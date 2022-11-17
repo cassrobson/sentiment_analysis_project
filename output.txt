@@ -1,0 +1,38 @@
+
+
+---------------------------------------------------------------------------------------
+Top Ten Wall Street Bets Mentions for Thursday November 17, 2022: NVDA, GME, TSLA, AAPL, BABA, ASTS, TGT, AMD, XOM, QRTEA  | Created at:  2022-11-17 19:24:00+00:00 | Written by:  Charles Gross
+Overall Connotation ---->  NEGATIVE  |  Score ----->  85.24839878082275 %
+---------------------------------------------------------------------------------------
+Democratic Senators Including Blumenthal And Warren Urge FTC To Investigate Twitter;  Senators Urge "Vigorous Oversight" Of Twitter Consent Decree With FTC And Potential Violations Of Consumer Protection Laws  | Created at:  2022-11-17 19:19:46+00:00 | Written by:  Benzinga Newsdesk
+Overall Connotation ---->  NEGATIVE  |  Score ----->  93.69690418243408 %
+---------------------------------------------------------------------------------------
+Did Tesla Set A Bear Trap? Here's What's Happening With The Stock  | Created at:  2022-11-17 15:57:24+00:00 | Written by:  Melanie Schaffer
+Overall Connotation ---->  NEGATIVE  |  Score ----->  99.73942041397095 %
+---------------------------------------------------------------------------------------
+Musk Fostered Hostile Work Environment At SpaceX; SpaceX Allegedly Fired 9 Workers Unfairly - National Labor Relations Board  | Created at:  2022-11-17 15:20:30+00:00 | Written by:  Benzinga Newsdesk
+Overall Connotation ---->  NEGATIVE  |  Score ----->  99.44478273391724 %
+---------------------------------------------------------------------------------------
+Tesla Fame's Robot-Run ETF Is Now Betting Big On These Oil Stocks  | Created at:  2022-11-17 14:40:18+00:00 | Written by:  Bhavik Nair
+Overall Connotation ---->  NEGATIVE  |  Score ----->  98.70355725288391 %
+---------------------------------------------------------------------------------------
+'Darker Macro' Awaits As Amazon, Google, Meta Forced To Cut Costs After 'Hypergrowth' Phase: Analyst Says What's Next For Tech Stocks  | Created at:  2022-11-17 13:30:11+00:00 | Written by:  Shanthi Rexaline
+Overall Connotation ---->  NEGATIVE  |  Score ----->  99.2567777633667 %
+---------------------------------------------------------------------------------------
+Stumbling Tesla Still Finds Taker In Cathie Wood's ARK — So Do These Crypto-Linked Stocks  | Created at:  2022-11-17 11:50:29+00:00 | Written by:  Bhavik Nair
+Overall Connotation ---->  NEGATIVE  |  Score ----->  99.26773309707642 %
+---------------------------------------------------------------------------------------
+Tesla Filed U.S. Patent Applications: Accelerated Mathematical Engine; Scalable Hierarchical Energy Distribution Grid Utilizing Homogeneous Control Logic  | Created at:  2022-11-17 12:43:41+00:00 | Written by:  Charles Gross
+Overall Connotation ---->  POSITIVE  |  Score ----->  88.74831795692444 %
+---------------------------------------------------------------------------------------
+Is Elon Musk Stepping Down As Tesla CEO Soon? Analysts React To 'Succession' Comments  | Created at:  2022-11-17 12:34:25+00:00 | Written by:  Shanthi Rexaline
+Overall Connotation ---->  NEGATIVE  |  Score ----->  98.91542792320251 %
+---------------------------------------------------------------------------------------
+Tesla Rival Fisker's Debut Model Ocean SUV Goes Into Production Today: What Investors Should Know  | Created at:  2022-11-17 11:00:17+00:00 | Written by:  Shanthi Rexaline
+Overall Connotation ---->  POSITIVE  |  Score ----->  99.55333471298218 %
+
+NEGATIVE COUNTER ----> 6
+
+POSITIVE COUNTER ----> 1
+
+CURRENT TIME: 2022-11-17T15:23:03.720905 | SHORTING 11.0 SHARES OF TSLA at 181.265
