@@ -60,7 +60,7 @@ print()
 
 if positive_counter > negative_counter:
     print("BUYING {} STOCK DUE TO POSITIVE NEWS RELEASED ABOUT THE COMPANY".format(SYMBOL))
-    order = api.submit_order("TWTR", 10, "buy", "market", "gtc")
+    order = api.submit_order(SYMBOL, 10, "buy", "market", "gtc")
     print("SUCCESSFULLY SUBMITTED ORDER WITH ORDER_ID {}".format(order.id))
 
 
