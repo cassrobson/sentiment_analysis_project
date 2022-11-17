@@ -71,7 +71,7 @@ elif negative_counter > positive_counter:
     quotes = stock.info['regularMarketPrice']
     
     quantity = ORDER_DOLLAR_SIZE // quotes
-    take_profit = round(quotes * 0.99, 2)
+    take_profit = round(quotes * 0.95, 2)
     stop_price = round(quotes * 1.01, 2)
     stop_limit_price = round(quotes * 1.02, 2)
 
